@@ -1,0 +1,17 @@
+.header{
+  color: rgb(103, 71, 230, 1); /*text-color*/
+  background-color: aqua;
+  border: 2px solid black;
+  border-radius: 10px;
+  border-bottom-right-radius: 0px;
+  /* width: fit-content; */
+  /* width: 80%; */
+  max-width: 40rem;
+  width: 80rem;  /*16*40 = 640px*/
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+
+.t{
+  text-align: center;
+}

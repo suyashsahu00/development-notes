@@ -1,0 +1,13 @@
+/* selector {property: "value",
+property1:"value1"}
+
+class, id, element, parent > child, (pseduo selector) */
+
+/* class -> .myPara
+id -> #myPara */
+
+/* 3 types to integrate CSS into HTML;
+
+1. inline CSS
+2. internal CSS
+3. External CSS */
