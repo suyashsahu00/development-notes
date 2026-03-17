@@ -1,0 +1,66 @@
+/* // FIXED AND STATIC EXAMPLE  */
+
+
+/* .a{
+  height: 10rem;
+  width: 10rem;
+  border: 2px solid black;
+}
+
+/* z-index - controls the stacking order of element} */
+/* .btn{
+  background-color: red;
+  position: fixed;
+  your TRBL - top right bottom left, properties gets activated
+  bottom: 0px;
+  right: 0px;
+} */
+
+/* .btn{
+  position: static;
+  background-color: red;
+  top: 0px;
+} */ */
+
+/* RELATIVE & Z-INDEX */
+/* .parent{
+  border: 2px solid black;
+  display: flex;
+  gap:1rem;
+} */
+
+/* #one{
+  position: relative;
+  left: 50px;
+  z-index: 1;
+}
+
+#two{
+  z-index: 2;
+  background-color: blue;
+  position: relative;
+  top: 100px;
+}
+
+.c{
+  background-color: yellow;
+  font-weight: bold;
+  height: 5rem;
+  width: 5rem;
+  font-size: larger;
+} */
+
+/* ABSOLUTE */
+
+/* #one{
+  position: relative;
+  left: 50px;
+  z-index: 1;
+}
+
+#two{
+  z-index: 2;
+  background-color: blue;
+  position: relative;
+  top: 100px;
+} */
